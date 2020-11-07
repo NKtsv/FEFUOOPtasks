@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Line">
+    <Outline>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Outline>
+    <StartPoint>
+      <X>-227.8125</X>
+      <Y>-66.4375</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>712.1875</X>
+      <Y>357.5625</Y>
+    </EndPoint>
+    <Thickness>4</Thickness>
+    <Style>
+      <Offset>0</Offset>
+      <Dashes />
+    </Style>
+  </Shape>
+  <Shape xsi:type="Ellipse">
+    <Outline>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Outline>
+    <StartPoint>
+      <X>259</X>
+      <Y>122</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>411</X>
+      <Y>257</Y>
+    </EndPoint>
+    <Thickness>4</Thickness>
+    <Style>
+      <Offset>0</Offset>
+      <Dashes />
+    </Style>
+    <Fill>
+      <A>0</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>0</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Fill>
+  </Shape>
+</ArrayOfShape>

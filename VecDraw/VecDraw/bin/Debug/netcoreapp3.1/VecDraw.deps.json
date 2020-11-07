@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VecDraw/1.0.0": {
+        "dependencies": {
+          "ColorPickerWPF": "1.0.9",
+          "WriteableBitmapEx": "1.6.5",
+          "YamlDotNet": "8.1.2"
+        },
+        "runtime": {
+          "VecDraw.dll": {}
+        }
+      },
+      "ColorPickerWPF/1.0.9": {
+        "dependencies": {
+          "WriteableBitmapEx": "1.6.5"
+        },
+        "runtime": {
+          "lib/net461/ColorPickerWPF.dll": {
+            "assemblyVersion": "1.0.9.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WriteableBitmapEx/1.6.5": {
+        "runtime": {
+          "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll": {
+            "assemblyVersion": "1.6.5.0",
+            "fileVersion": "1.6.5.0"
+          }
+        }
+      },
+      "YamlDotNet/8.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VecDraw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorPickerWPF/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k/fuE8/V3w7sCN0JEi4FOshG7fjQ/zudR2a9KAOh8pjIvQyAWrdwk/bRb9SxyiKFLPGn/cog5Af3TlXXF92RDQ==",
+      "path": "colorpickerwpf/1.0.9",
+      "hashPath": "colorpickerwpf.1.0.9.nupkg.sha512"
+    },
+    "WriteableBitmapEx/1.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cfOaqu1D/HQCXEesBho9oF96Jer3waPJcmd9DYx0OOjMpc2yY2ahIk/3K+4rJLnPP6mL/l4X8nqrmNKzwA1dJA==",
+      "path": "writeablebitmapex/1.6.5",
+      "hashPath": "writeablebitmapex.1.6.5.nupkg.sha512"
+    },
+    "YamlDotNet/8.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GlPKbb4l+91dyYVKV7UnJlr2CWooNNM1ayZWC90QAmlFPgbwSkfhgId7dGjTAHqkB84BZqjMSy5PlAYf1iejVA==",
+      "path": "yamldotnet/8.1.2",
+      "hashPath": "yamldotnet.8.1.2.nupkg.sha512"
+    }
+  }
+}
